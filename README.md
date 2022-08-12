@@ -1,6 +1,6 @@
 # simple-live-face-recognition
 
-This is a simple live facial recognition project I wrote in Python.
+This is a simple live facial recognition project I wrote in Python
 
 The setup is a little tough. It relies on the face_recognition library, and to use that you must first install a C++ compiler, and then cmake and dlib. After that you can install the face_recognition library and opencv. Numpy is also required but I think that comes with one of the other libraries so that shouldn't be a problem.
 
